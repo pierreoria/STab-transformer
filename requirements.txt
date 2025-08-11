@@ -1,0 +1,12 @@
+scipy<1.10
+optuna
+keras4torch
+einops
+scikit-plot
+tab-transformer-pytorch
+git+https://github.com/pierreoria/stab-redes-neurais.git
+seaborn
+kagglehub
+keras
+tensorflow
+optuna
